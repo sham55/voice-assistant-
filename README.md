@@ -1,4 +1,4 @@
-# 🎙️ Voice-Activated ChatGPT Assistant
+# 🎙️ Voice-Activated ChatGPT Assistant using Raspberry pi
 
 This is a simple **voice assistant** (like Jarvis) built with:
 - Python
